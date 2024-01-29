@@ -1,0 +1,7 @@
+READ_ODS_CHEESE = """
+SELECT * FROM CHEESE;
+"""
+
+LOAD_ODS_CHEESE = """
+
+"""
